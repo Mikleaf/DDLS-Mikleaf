@@ -1,4 +1,4 @@
-Before running the script on google colab, download these reduced databases created from the public data available on Phagescope (https://phagescope.deepomics.org/download), and keep them in your main My Drive, as they are required for the code tu run:
+Before running the script on google colab, download these reduced databases created from the public data available on Phagescope (https://phagescope.deepomics.org/download), and keep them in your main My Drive, as they are required for the code to run:
 - https://drive.google.com/file/d/1g3gbYUp_GDmMT587LC0j6Y9qTF2tzv0m/view?usp=sharing (database with infection protein sequences)
 - https://drive.google.com/file/d/19FDHLSgKgBYkqxSmAcvqv1MSfMPU6SRm/view?usp=sharing
 - https://drive.google.com/file/d/1_mnUoMlvNHkzPRMWISDB_mCEk80XAa4u/view?usp=sharing
